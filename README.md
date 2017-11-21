@@ -7,7 +7,7 @@
 项目缘由
 -------------------
 
-此前有人向我咨询，可否指出一些中文的**开源**的字体，故萌发了**中文开源字体集合（Open Source Fonts Collection for Chinese）**的想法。
+此前有人向我咨询，可否指出一些中文的**开源**的字体，故萌发了**中文开源字体集合 Open Source Fonts Collection for Chinese**的想法。
 
 我在[Telegram频道](https://t.me/fatetypo)中推送关于Linux的消息，订阅者表示并不出奇，因为他们大都来自[哔哩哔哩弹幕网](https://space.bilibili.com/3030024/#!/)，最初关注我也是缘于Linux，此前也撰有[一款考究字体的 Gtk+ 主题——Adapta-gtk-theme](https://drfun.xyz/typeface/adapta-gtk-theme/)一文。
 
