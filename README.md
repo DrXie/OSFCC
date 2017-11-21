@@ -51,7 +51,7 @@
 |  [CJKUnifonts](https://www.freedesktop.org/wiki/Software/CJKUnifonts/) | Arne Götje | AR PL UMing | 宋 | 1 | [Arphic Public License (free)](http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE) | ✓ | ✓ | ✓ | ✓ |
 |   |  | AR PL UKai | 楷 | 1 |  | ✓ | ✓ | ✓ | ✓ |
 |  [CNS11643中文标准交换码全字库](https://data.gov.tw/dataset/5961) | 教育部 | 全字库楷体 | 楷 | 1 | [Open Government Data License, version 1.0](https://data.gov.tw/license#eng) | ✓ | ✓ | ✓ | ✓ |
-|   |  | 全字库宋体 | 宋 |  |  | ✓ | ✓ | ✓ | ✓ |
+|   |  | 全字库宋体 | 宋 | 1 |  | ✓ | ✓ | ✓ | ✓ |
 |   |  | [全字库说文解字字形](http://www.cns11643.gov.tw/AIDB/download.do?name=%E5%AD%97%E5%9E%8B%E4%B8%8B%E8%BC%89) | 篆 | 1 | [CC BY-NC-SA 3.0 TW](https://creativecommons.org/licenses/by-nc-sa/3.0/tw/deed.en) |  | ✓ |  |  |
 |  [教育部标准字体](https://github.com/Jiehong/TW-fonts) |  | 教育部标准楷书 | 楷 | 1 | [CC-BY-ND 3.0](https://creativecommons.org/licenses/by-nd/3.0/) |  | ✓ |  |  |
 |   |  | 教育部标准宋体 | 宋 | 1 |  |  | ✓ |  |  |
