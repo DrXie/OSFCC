@@ -1,6 +1,6 @@
 中文开源字体集 Open Source Fonts Collection for Chinese
 ======
-
+![OSFCC](https://raw.githubusercontent.com/DrXie/OSFCC/master/osfcc.png)
 一个收集可用于**中文字体排印**的**开源字体**集合。
 
 
