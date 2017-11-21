@@ -119,3 +119,5 @@
 |  Typing Art开源字体 | [中井良尚](https://twitter.com/typingart) | [こころ明朝体](http://typingart.net/?p=46) | 宋 | 1 | [IPA Font License Agreement V1.0](http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp) |  |  | ✓ |  |  |
 |   |  | [はんなり明朝](http://typingart.net/?p=44) | 宋 | 1 |  |  |  | ✓ |  |  |
 |   |  | [こども丸ゴシック](http://typingart.net/?p=51) | 艺 | 2 |  |  |  | ✓ |  |  |
+
+（更新中）
