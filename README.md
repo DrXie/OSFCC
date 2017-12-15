@@ -111,8 +111,8 @@
 |   |  | 851チカラヨワク |  | 1 |  |  |  | ✓ |  |
 |   |  | 851テガキカクット |  | 1 |  |  |  | ✓ |  |
 |   |  | 851レトロゴ  |  | 1 |  |  |  | ✓ |  |
-|  [fandol](https://ctan.org/pkg/fandol) | Clerk Ma | FandolSong | 宋 | 1 | [GNU GPLv3 font exception](https://www.gnu.org/licenses/gpl-3.0.en.html) | ✓ |  |  |  |
-|   |  | FandolHei | 黑 | 1 |  | ✓ |  |  |  |
+|  [fandol](https://ctan.org/pkg/fandol) | Clerk Ma | FandolSong | 宋 | 2 | [GNU GPLv3 font exception](https://www.gnu.org/licenses/gpl-3.0.en.html) | ✓ |  |  |  |
+|   |  | FandolHei | 黑 | 2 |  | ✓ |  |  |  |
 |   |  | FandolFang | 仿 | 1 |  | ✓ |  |  |  |
 |   |  | FandolKai | 楷 | 1 |  | ✓ |  |  |  |
 |  [Kazesawa](https://kazesawa.github.io/) | kazesawa | Kazesawa | 黑 | 6 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) |  |  | ✓ |  |
