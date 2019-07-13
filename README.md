@@ -49,6 +49,7 @@
 |  :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 |  思源字体 | Adobe | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
 |   |  | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 宋 | 7 |  | ✓ | ✓ | ✓ | ✓ |
+|  台北黑体 | 瀚字铸造 | [台北黑体](https://sites.google.com/view/jtfoundry/zh-tw) | 黑 | 3 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ |  |  |
 |  [花园明朝体](http://fonts.jp/hanazono/) | GlyphWiki | 花园明朝体 | 宋 | 1 | [Hanazono Font License & SIL Open Font License, Version 1.1](http://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE) | ✓ | ✓ | ✓ | ✓ |
 |  文泉驿 | 「文泉驿」开发小组 | [文泉驿微米黑](http://wenq.org/wqy2/index.cgi?MicroHei) | 黑 | 1 | [GNU GPLv3 & Apache 2.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | ✓ | ✓ | ✓ | ✓ |
 |   |  | [文泉驿正黑](http://wenq.org/wqy2/index.cgi?ZenHei) |  | 1 | [GNU GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) | ✓ | ✓ | ✓ | ✓ |
