@@ -23,7 +23,7 @@
 
 另外，有部分开源项目或出于美观，或不了解字体版权，采用了商用字体，这或许会带来不必要的麻烦。本项目也希望能以提供广泛的开源字体选择的方式避免这一问题。
 
-本集以中文字体为主要收录对象，但不可否认的是针对**日本、韩国、越南**等使用汉字的国家或地区设计开发的字体，在**中文语境下的字体排印**中具有重要意义，故一并收入。
+本集以中文字体为主要收录对象，但不可否认的是针对**日本、韩国、越南**等使用汉字的国家或地区设计开发的字体，在**中文语境下的字体排印**中具有重要意义，故一并收入。虽然某些情况下可利用这种差异感表现地域风格，但还是应该注意使用符合其他地区字形规范的字体时的环境。
 
 项目内容
 -------------------
@@ -47,7 +47,7 @@
 
 |  字体系列 | 开发者 | 字体 | 样式 | 字重数 | 授权协议 | 简 | 繁 | 日 | 韩 |
 |  :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-|  思源字体 | Adobe | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
+|  思源字体 | Adobe | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ (tw/hk) | ✓ | ✓ |
 |   |  | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 宋 | 7 |  | ✓ | ✓ | ✓ | ✓ |
 |  台北黑体 | 瀚字铸造 | [台北黑体](https://sites.google.com/view/jtfoundry/zh-tw) | 黑 | 3 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ |  |  |
 |  [花园明朝体](http://fonts.jp/hanazono/) | GlyphWiki | 花园明朝体 | 宋 | 1 | [Hanazono Font License & SIL Open Font License, Version 1.1](http://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE) | ✓ | ✓ | ✓ | ✓ |
