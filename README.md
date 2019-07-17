@@ -107,11 +107,13 @@
 |   |  | M+ M Type-1 |  | 7 |  |  |  | ✓ |  |
 |   |  | M+ M Type-2 |  | 7 |  |  |  | ✓ |  |
 |   |  | M+ MN Type-1 |  | 7 |  |  |  | ✓ |  |
-|  [851](http://www39.atpages.jp/yagoinienie/851fontpage.html) | 8 :51:22 pm | [851手書き雑フォント](http://www39.atpages.jp/yagoinienie/851fontpage.html) | 艺 | 2 | 自由修改分发，可商用，保留著作权 | ✓ | ✓ | ✓ | ✓ |
-|   |  | [851チカラヅヨク](http://www39.atpages.jp/yagoinienie/851ch-dz.html) |  | 1 |  |  |  | ✓ |  |
-|   |  | 851チカラヨワク |  | 1 |  |  |  | ✓ |  |
-|   |  | 851テガキカクット |  | 1 |  |  |  | ✓ |  |
-|   |  | 851レトロゴ  |  | 1 |  |  |  | ✓ |  |
+|  [851](https://pm85122.onamae.jp/85122font.html) | 8:51:22 pm | [851ゴチカクット](https://pm85122.onamae.jp/851Gkktt.html) | 艺 | 1 | 自由修改分发，可商用，保留著作权 |  |  | ✓ |  |
+|   |  | [851手書き雑フォント](https://pm85122.onamae.jp/851fontpage.html) |  | 1 |  | ✓ | ✓ | ✓ | ✓ |
+|   |  | [851チカラヅヨク](https://pm85122.onamae.jp/851ch-dz.html) |  | 2 |  |  |  | ✓ |  |
+|   |  | [851チカラヨワク](https://pm85122.onamae.jp/851ch-yw.html) |  | 1 |  |  |  | ✓ |  |
+|   |  | [851テガキカクット](https://pm85122.onamae.jp/851H_kktt.html)  |  | 1 |  |  |  | ✓ |  |
+|   |  | [851マカポップ](https://pm85122.onamae.jp/851mkpop.html)  |  | 1 |  |  |  | ✓ |  |
+|   |  | [851マカポップ](https://pm85122.onamae.jp/851mkpop.html)  |  | 1 |  |  |  | ✓ |  |
 |  [Kazesawa](https://kazesawa.github.io/) | kazesawa | Kazesawa | 黑 | 6 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) |  |  | ✓ |  |
 |  [Sazanami](https://ja.osdn.net/projects/efont/) | 狩野宏樹 | Sazanami ゴシック | 黑 | 1 | BSD |  |  | ✓ |  |
 |   |  | Sazanami 明朝 | 宋 | 1 |  |  |  | ✓ |  |
