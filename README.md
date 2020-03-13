@@ -9,7 +9,7 @@
 
 此前有人向我咨询，可否指出一些中文的**开源**的字体，故萌发了**中文开源字体集合 Open Source Fonts Collection for Chinese**的想法。
 
-我在[Telegram频道](https://t.me/fatetypo)中推送关于Linux的消息，订阅者表示并不出奇，因为他们大都来自[哔哩哔哩弹幕网](https://space.bilibili.com/3030024/#!/)，最初关注我也是缘于Linux，此前也撰有[一款考究字体的 Gtk+ 主题——Adapta-gtk-theme](https://fatetypo.xyz/adapta-gtk-theme/)一文。
+我在[Telegram频道](https://t.me/fatetypo)中推送关于Linux的消息，订阅者表示并不出奇，因为他们大都来自[哔哩哔哩弹幕网](https://space.bilibili.com/3030024/#!/)，最初关注我也是缘于Linux，此前也撰有[一款考究字体的 Gtk+ 主题——Adapta-gtk-theme](https://fatetypo.com/2017/adapta-gtk-theme)一文。
 
 项目目的
 -------------------
@@ -33,7 +33,7 @@
  * 对部分中文字体的资料整理总结
 
 
-如果你是中文开源字体项目的开发者、参与者，或者关注和使用中文开源字体，对本项目有任何建设性意见，或发现集合中存在错误内容，或发现了中文开源字体，可提交issues或Pull requests，也可在[网站](https://fatetypo.xyz/osfcc)下方评论，或加入[Telegram群组](https://t.me/fatetypo)参与讨论。
+如果你是中文开源字体项目的开发者、参与者，或者关注和使用中文开源字体，对本项目有任何建设性意见，或发现集合中存在错误内容，或发现了中文开源字体，可提交issues或Pull requests，也可在[网站](https://fatetypo.com/osfcc)下方评论，或加入[Telegram群组](https://t.me/fatetypo)参与讨论。
  
 
 > * 字体系列：指通常包含多个不同样式、字重、语言的字体或字体家族的字体项目组合。
