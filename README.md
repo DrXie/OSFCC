@@ -52,7 +52,7 @@
 |  台北黑体 | 瀚字铸造 | [台北黑体](https://sites.google.com/view/jtfoundry/zh-tw) | 黑 | 3 | 〃 | ✓ | ✓ |  |  |
 |  昭明黑体 | Tamcy | [昭明黑体](https://tamcy.github.io/chiron-sans-hk/) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
 |  有爱字体 | Nowar Typeface | [有爱黑体](https://github.com/nowar-fonts/Nowar-Sans) | 黑 | 5 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
-| 〃  | 〃 | [有爱锐方](https://github.com/nowar-fonts/Nowar-CnC) | 〃 | 〃 | 5 | ✓ | ✓ | ✓ | ✓ |
+| 〃  | 〃 | [有爱锐方](https://github.com/nowar-fonts/Nowar-CnC) | 〃 | 5 | 〃 | ✓ | ✓ | ✓ | ✓ |
 | 〃  | 〃 | [有爱圆体](https://github.com/nowar-fonts/Nowar-Rounded) | 圆 | 4 | 〃 | ✓ | ✓ | ✓ | ✓ |
 | 〃  | 〃 | [有爱新黑](https://github.com/nowar-fonts/Nowar-Neo-Sans) | 黑 | 4 | 〃 | ✓ | ✓ | ✓ | ✓ |
 |  [花园明朝体](http://fonts.jp/hanazono/) | GlyphWiki | 花园明朝体 | 宋 | 1 | [Hanazono Font License & SIL Open Font License, Version 1.1](http://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE) | ✓ | ✓ | ✓ | ✓ |
