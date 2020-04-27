@@ -42,20 +42,32 @@
 > * 样式：这里包括黑体、宋体、楷体、仿宋四种常见印刷样式，以及源自日本的圆体，其他归入艺术类。此一样式分类法仅适用本项目，目前未有通行且明确的中文字体样式分类。注意，有的字体西文部分样式不与中文对应。 
 > * 字重数：粗细程度是字体重要的属性，字重数反映了字体开发者基于了使用者多大的排印空间，即利用可能。多数字体仅支持 Regular 或 Medium，或因西文字体家族的概念未深入人心，但随着字体软件对开发环节的简化，以及对 OpenType 支持的不断提升，相信未来会有所改观。 
 > * 授权协议：「开源」不等于「免费」的重要区别之一即授权协议。虽然开源协议不具有极强的法律效力，但这保护了开源项目维护者的权益，也有益于开源精神的传递。 
-> * 简/繁/日/韩：即可基本满足该种语言文本的排印需求。虽然本集为中文字体，但在日常环境下，常涉及对不同地区语言文字的处理。故收录仅支持日文的开源字体，是因为在平面设计等环境下的字体排印与设计亦有使用日本字形之需求的可能性。另身处东亚文化圈，对日文与韩文中特有的表意文字亦有处理需求。 
+> * 简/繁/日/韩：即可基本满足该种语言文本的排印需求。虽然本集为中文字体，但在日常环境下，常涉及对不同地区语言文字的处理。故收录仅支持日文的开源字体，是因为在平面设计等环境下的字体排印与设计亦有使用日本字形之需求的可能性。另身处东亚文化圈，对日文与韩文中特有的表意文字亦有处理需求。需要注意的是，这里指该字体支持此语言下排印一般所需字符，个别字体或另支持特殊字符，且字形设计或不采用区域标准，请详阅各字体项目对自身遵循理念的表述再酌情使用。
 
 
 |  字体系列 | 开发者 | 字体 | 样式 | 字重数 | 授权协议 | 简 | 繁 | 日 | 韩 |
 |  :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-|  思源字体 | Adobe | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ (tw/hk) | ✓ | ✓ |
+|  思源字体 | Adobe | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓  | ✓ | ✓ |
 |  〃 | 〃 | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 宋 | 7 | 〃 | ✓ | ✓ | ✓ | ✓ |
+|  〃 | 〃 | [思源等宽](https://github.com/adobe-fonts/source-han-mono)  | 黑 | 7 | 〃 | ✓ | ✓ | ✓ | ✓ |
 |  台北黑体 | 瀚字铸造 | [台北黑体](https://sites.google.com/view/jtfoundry/zh-tw) | 黑 | 3 | 〃 | ✓ | ✓ |  |  |
-|  昭明黑体 | Tamcy | [昭明黑体](https://tamcy.github.io/chiron-sans-hk/) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
-|  有爱字体 | Nowar Typeface | [有爱黑体](https://github.com/nowar-fonts/Nowar-Sans) | 黑 | 5 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
+|  昭明黑体 | Tamcy | [昭明黑体](https://tamcy.github.io/chiron-sans-hk/) | 黑 | 7 | 〃 | ✓ | ✓ | ✓ | ✓ |
+|  Sarasa | [Belleve Invis](https://github.com/be5invis) | [更纱黑体](https://github.com/be5invis/Sarasa-Gothic) | 黑 | 5 | 〃 | ✓ | ✓ | ✓ | ✓ |
+|  有爱字体 | Nowar Typeface | [有爱黑体](https://github.com/nowar-fonts/Nowar-Sans) | 黑 | 5 | 〃 | ✓ | ✓ | ✓ | ✓ |
 | 〃  | 〃 | [有爱锐方](https://github.com/nowar-fonts/Nowar-CnC) | 〃 | 5 | 〃 | ✓ | ✓ | ✓ | ✓ |
 | 〃  | 〃 | [有爱圆体](https://github.com/nowar-fonts/Nowar-Rounded) | 圆 | 4 | 〃 | ✓ | ✓ | ✓ | ✓ |
 | 〃  | 〃 | [有爱新黑](https://github.com/nowar-fonts/Nowar-Neo-Sans) | 黑 | 4 | 〃 | ✓ | ✓ | ✓ | ✓ |
+|  ButTaiwan | [ButTaiwan](https://github.com/ButTaiwan) | [源样明体](https://github.com/ButTaiwan/genyo-font) | 宋 | 7 | 〃 | ✓  | ✓  | ✓  |  |
+|  〃 | 〃 | [源流明体](https://github.com/ButTaiwan/genryu-font) | 宋 | 7 | 〃 | ✓  | ✓  | ✓  |  |
+|  〃 | 〃 | [源云明体](https://github.com/ButTaiwan/genwan-font) | 宋 | 4 | 〃 | ✓  | ✓  | ✓  |  |
+|  〃 | 〃 | [源样黑体](https://github.com/ButTaiwan/genyog-font) | 黑 | 7 | 〃 | ✓  | ✓  | ✓  |  |
+|  〃 | 〃 | [源石黑体](https://github.com/ButTaiwan/genseki-font) | 黑 | 4 | 〃 | ✓  | ✓  | ✓  |  |
+|  〃 | 〃 | [源泉圆体](https://github.com/ButTaiwan/gensen-font) | 圆 | 7 | 〃 | ✓  | ✓  | ✓  |  |
+|  [简体中文完整字体包](https://github.com/Magisk-Modules-Grave/chinesesimplified-font-completion) | [Magisk-Modules-Grave](https://github.com/Magisk-Modules-Grave) | NotoSerif+ | 宋 | 2 | 〃 | ✓ |  | ✓ | ✓ |
+|  〃 | 〃 | Roboto+ | 黑 | 6 | 〃 | ✓ |  | ✓ | ✓ |
+|  〃 | 〃 | Roboto Condensed+ | 黑  | 4 | 〃 | ✓ |  | ✓ | ✓ |
 |  [花园明朝体](http://fonts.jp/hanazono/) | GlyphWiki | 花园明朝体 | 宋 | 1 | [Hanazono Font License & SIL Open Font License, Version 1.1](http://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE) | ✓ | ✓ | ✓ | ✓ |
+|  [GNU Unifont](http://unifoundry.com/unifont/index.html) | GNU Unifont | GNU Unifont | 艺 | 1 | [GNU GPLv2](http://unifoundry.com/LICENSE.txt) | ✓ | ✓ | ✓ | ✓ |
 |  文泉驿 | 「文泉驿」开发小组 | [文泉驿微米黑](http://wenq.org/wqy2/index.cgi?MicroHei) | 黑 | 1 | [GNU GPLv3 & Apache 2.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | ✓ | ✓ | ✓ | ✓ |
 |  〃 | 〃 | [文泉驿正黑](http://wenq.org/wqy2/index.cgi?ZenHei) |  | 1 | [GNU GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) | ✓ | ✓ | ✓ | ✓ |
 |  〃 | 〃 | [文泉驿点阵正黑](http://wenq.org/wqy2/index.cgi?ZenHei) | 〃 | 1 | 〃 | ✓ | ✓ | ✓ | ✓ |
@@ -121,6 +133,7 @@
 | 〃  | 〃 | [851マカポップ](https://pm85122.onamae.jp/851mkpop.html)  | 〃 | 1 | 〃 |  |  | ✓ |  |
 | 〃  | 〃 | [851マカポップ](https://pm85122.onamae.jp/851mkpop.html)  | 〃 | 1 | 〃 |  |  | ✓ |  |
 |  [Kazesawa](https://kazesawa.github.io/) | kazesawa | Kazesawa | 黑 | 6 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) |  |  | ✓ |  |
+|  FLOP DESIGN | [FLOP DESIGN](https://www.flopdesign.com/) | [装甲明朝](https://flopdesign.com/blog/font/5228/) | 宋 | 1 | 〃 |  | ✓ | ✓ |  |
 |  [Sazanami](https://ja.osdn.net/projects/efont/) | 狩野宏樹 | Sazanami ゴシック | 黑 | 1 | BSD |  |  | ✓ |  |
 |  〃 | 〃 | Sazanami 明朝 | 宋 | 1 | 〃 |  |  | ✓ |  |
 |  [Un Fonts](http://kldp.net/unfonts/) | wkpark, Jungshik Shin, 김도현 | UnBatang | 宋 | 2 | [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) |  | ✓ |  | ✓ |
